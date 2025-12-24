@@ -1,10 +1,3 @@
-This is a project we are working on for our DBMS project. This include:
-1. Aashay Nema (IIT2023082)
-2. Bhavya Gupta (IIT2023070)
-3. Dhruv Samdhani (IIT2023090)
-4. Shaurya Bhandari (IIT2023084)
-5. Subhansh Naithani (IIT2023081)
-
 **Project Title:** DynamicKV - A Scalable Web-Based Key-Value Store with Adaptive
 Consistency and Real-Time Synchronization
 
